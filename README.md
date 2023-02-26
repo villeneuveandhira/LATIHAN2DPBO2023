@@ -20,9 +20,7 @@ Note.<br />
 update pada branch lain karena mengupdate branch Main setelah waktu
 pengumpulan terlewat maka program tidak akan dinilai<br />
 ● Struktur folder<br />
-○ CPP<br />
-- program<br />
-- screenshot<br />
+○ CPP (program, screenshot)<br />
 ○ Java<br />
 ○ Python<br />
 ○ PHP<br />
