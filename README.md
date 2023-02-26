@@ -102,6 +102,8 @@ Alasan urutan kelasnya:<br />
 - Jadi menurut saya, base classnya adalah 'Human', lalu derived class 'Human' adalah 'Sivitas' (akademik), dan kelas 'Sivitas' inherits dengan kelas 'Mahasiswa'
 
 # Documentation () {}
+!! untuk bahasa Java menggunakaan hardcoded<br />
+!! untuk bahasa PHP tidak ada fitur update data<br />
 Untuk dokumentasi menggunakan snapshot/screenshot saat menjalankan program,
 dan yang dipilih salah satu yaitu dengan bahasa Java dan C++.<br />
 
