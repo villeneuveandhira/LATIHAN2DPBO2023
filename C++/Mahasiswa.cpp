@@ -71,12 +71,12 @@ class Mahasiswa : public Sivitas {
                 for (int i = 0; i < n; i++) {
                     cout << "ID                  : " << m[i].getId() << endl;
                     cout << "NIK                 : " << m[i].getNum() << endl;
-                    cout << "NIM                 : " << m[i].MHS_NUM << endl;
+                    cout << "NIM                 : " << m[i].getMHS_ID() << endl;
                     cout << "NAMA                : " << m[i].getName() << endl;
                     cout << "JENIS KELAMIN       : " << m[i].getGender() << endl;
                     cout << "E-mail              : " << m[i].getEmailEdu() << endl;
-                    cout << "PRODI               : " << m[i].MHS_PRODI << endl;
-                    cout << "FAKULTAS            : " << m[i].MHS_FAC << endl;
+                    cout << "PRODI               : " << m[i].getMHS_PRODI() << endl;
+                    cout << "FAKULTAS            : " << m[i].getMHS_FAC() << endl;
                     cout << "Asal Universitas    : " << m[i].getUniv() << endl;
                     cout << "========================================" << endl;
                 }
