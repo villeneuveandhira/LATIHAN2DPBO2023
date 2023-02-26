@@ -120,7 +120,8 @@ Kemudian, ada penjelasan alur programnya:
             atau ada message/pesan warning tidak ada data.<br />
       &nbsp;b. insert<br />
             &nbsp;&nbsp;dipilihan ke-dua untuk menambahkan data mahasiswa,
-            pertama akan diminta untuk memasukkan nomor id, dilanjut nim, nama, prodi, dan fakultas,
+            pertama akan diminta untuk memasukkan nomor id, dilanjut nik, nim, nama, jenis-kelamin, e-mail, prodi, fakultas,
+            dan asal-universitas.
             di akhir akan ada pesan bahwa data berhasil dimasukkan.<br />
       &nbsp;c. update<br />
             &nbsp;&nbsp;disini pilihan untuk mengubah data yang ada,
