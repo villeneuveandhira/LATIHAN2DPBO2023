@@ -92,7 +92,7 @@ Main program {<br />
                   &nbsp;&nbsp;&nbsp;3.3.) update,<br />
                   &nbsp;&nbsp;&nbsp;3.4.) delete,<br />
                   &nbsp;&nbsp;&nbsp;3.5.) exit.<br />
-}
+}<br />
 <br />
 Alasan urutan kelasnya:<br />
 - Secara objek antara mahasiswa dan sivitas itu sama yaitu manusia / human, tapi tidak semua sivitas itu mahasiswa saja melainkan ada dosen dll.<br />
