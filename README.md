@@ -35,13 +35,6 @@ Latihan 2 DPBO -> buat kelas:<br />
 - sivitas-akademik
 - mahasiswa
 <br />
-Alasan urutan kelasnya:<br />
-- Secara objek antara mahasiswa dan sivitas itu sama yaitu manusia / human, tapi tidak semua sivitas itu mahasiswa saja melainkan ada dosen dll.<br />
-- Sivitas akademika artinya warga di lingkungan akademis tertentu, maka mahasiswa termasuk sivitas(akademika).<br />
-- Kemudian dari antara objek manusia dengan sivitas sama.
-- Jadi menurut saya, base classnya adalah 'Human', lalu derived class 'Human' adalah 'Sivitas' (akademik), dan kelas 'Sivitas' inherits dengan kelas 'Mahasiswa'
-<br />
-<br />
 Berikut adalah kelas-kelasnya:<br />
 Class 'Human' {<br />
       &nbsp;-> private atr :<br />
@@ -100,6 +93,12 @@ Main program {<br />
                   &nbsp;&nbsp;&nbsp;3.4.) delete,<br />
                   &nbsp;&nbsp;&nbsp;3.5.) exit.<br />
 }
+<br />
+Alasan urutan kelasnya:<br />
+- Secara objek antara mahasiswa dan sivitas itu sama yaitu manusia / human, tapi tidak semua sivitas itu mahasiswa saja melainkan ada dosen dll.<br />
+- Sivitas akademika artinya warga di lingkungan akademis tertentu, maka mahasiswa termasuk sivitas(akademika).<br />
+- Kemudian dari antara objek manusia dengan sivitas sama.
+- Jadi menurut saya, base classnya adalah 'Human', lalu derived class 'Human' adalah 'Sivitas' (akademik), dan kelas 'Sivitas' inherits dengan kelas 'Mahasiswa'
 
 # Documentation () {}
 Untuk dokumentasi menggunakan snapshot/screenshot saat menjalankan program,
