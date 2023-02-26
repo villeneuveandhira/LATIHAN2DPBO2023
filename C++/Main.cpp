@@ -8,7 +8,6 @@ Aamiin.
 #include <iostream>
 #include <string>
 #include "Mahasiswa.cpp"
-#include <bits/stdc++.h>
 
 /* Using standard namespace */
 using namespace std;
