@@ -41,6 +41,7 @@ Alasan urutan kelasnya:<br />
 - Kemudian dari antara objek manusia dengan sivitas sama.
 - Jadi menurut saya, base classnya adalah 'Human', lalu derived class 'Human' adalah 'Sivitas' (akademik), dan kelas 'Sivitas' inherits dengan kelas 'Mahasiswa'
 <br />
+<br />
 Berikut adalah kelas-kelasnya:<br />
 Class 'Human' {<br />
       &nbsp;-> private atr :<br />
