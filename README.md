@@ -20,13 +20,13 @@ Note.<br />
 update pada branch lain karena mengupdate branch Main setelah waktu
 pengumpulan terlewat maka program tidak akan dinilai<br />
 ● Struktur folder<br />
-- CPP<br />
+○ CPP<br />
 - program<br />
 - screenshot<br />
-+ Java<br />
-+ Python<br />
-+ PHP<br />
-README.md<br />
+○ Java<br />
+○ Python<br />
+○ PHP<br />
+○ README.md<br />
 ● File README berisi desain program, penjelasan alur, dan dokumentasi saat
 program dijalankan (screenshot/screen record, pilih salah satu bahasa sebagai
 contoh)<br />
