@@ -78,7 +78,7 @@ Class 'Mahasiswa' is a 'Sivitas' {<br />
                   &nbsp;&nbsp;&nbsp;- menghapus       (delete/erase).<br />
       &nbsp;-> destructor (ex. Java, Py)<br />
 }<br />
-
+<br />
 Main program {<br />
       &nbsp;- clear/cls (optional) // supaya bersih aja<br />
       &nbsp;- 'new'/instansiasi,<br />
