@@ -31,9 +31,9 @@ contoh)<br />
 
 # Desain Program () {}
 Latihan 2 DPBO -> buat kelas:<br />
-- human<br />
-- sivitas<br />
-- mahasiswa<br />
+- human
+- sivitas-akademik
+- mahasiswa
 <br />
 Alasan urutan kelasnya:<br />
 - Secara objek antara mahasiswa dan sivitas itu sama yaitu manusia / human, tapi tidak semua sivitas itu mahasiswa saja melainkan ada dosen dll.<br />
@@ -56,7 +56,6 @@ Class 'Human' {<br />
 }<br />
 <br />
 Class 'Sivitas' is a 'Human' {<br />
-      
       &nbsp;-> private atr :<br />
             &nbsp;&nbsp;- Asal_universitas,<br />
             &nbsp;&nbsp;- E-mail,<br />
